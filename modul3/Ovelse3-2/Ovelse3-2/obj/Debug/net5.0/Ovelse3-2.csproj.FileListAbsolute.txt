@@ -1,0 +1,15 @@
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\bin\Debug\net5.0\Ovelse3-2.exe
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\bin\Debug\net5.0\Ovelse3-2.deps.json
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\bin\Debug\net5.0\Ovelse3-2.runtimeconfig.json
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\bin\Debug\net5.0\Ovelse3-2.runtimeconfig.dev.json
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\bin\Debug\net5.0\Ovelse3-2.dll
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\bin\Debug\net5.0\ref\Ovelse3-2.dll
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\bin\Debug\net5.0\Ovelse3-2.pdb
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\obj\Debug\net5.0\Ovelse3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\obj\Debug\net5.0\Ovelse3-2.AssemblyInfoInputs.cache
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\obj\Debug\net5.0\Ovelse3-2.AssemblyInfo.cs
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\obj\Debug\net5.0\Ovelse3-2.csproj.CoreCompileInputs.cache
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\obj\Debug\net5.0\Ovelse3-2.dll
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\obj\Debug\net5.0\ref\Ovelse3-2.dll
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\obj\Debug\net5.0\Ovelse3-2.pdb
+C:\Users\ktlh\source\repos\Ovelse3-2\Ovelse3-2\obj\Debug\net5.0\Ovelse3-2.genruntimeconfig.cache

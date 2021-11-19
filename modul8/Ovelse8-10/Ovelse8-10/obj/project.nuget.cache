@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XOda0B3wGcZbZMiFKuBHKFj1drRE9VU65YXTX3GRIopENyS3UsWRr8MPPnHv7fY96VL1OzcRv9rTtKR/mM1Feg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ktlh\\source\\repos\\Ovelse8-10\\Ovelse8-10\\Ovelse8-10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ktlh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
