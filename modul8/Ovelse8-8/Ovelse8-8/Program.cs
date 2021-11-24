@@ -10,7 +10,7 @@ for (int i = 0; i < 10; i++)
 {
     int storrelseTal = random.Next(0, storrelse.Length - 1);
     int farveTal = random.Next(0, farve.Length - 1);
-    int typeTal = random.Next(0, type.Length);
+    int typeTal = random.Next(0, type.Length - 1);
 
     Console.WriteLine($"En {storrelse[storrelseTal]} {farve[farveTal]} {type[typeTal]}");
 }

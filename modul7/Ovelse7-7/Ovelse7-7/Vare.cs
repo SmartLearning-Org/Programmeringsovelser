@@ -13,7 +13,7 @@ namespace Ovelse7_7
 
         public void Udskriv()
         {
-            Console.WriteLine("{Navn}: {C2:Pris}");
+            Console.WriteLine($"{Navn}: {Pris:C2}");
         }
     }
 }
